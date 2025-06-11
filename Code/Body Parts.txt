@@ -1,0 +1,19 @@
+rig = GorillaTagger.Instance.offlineVRRig
+actual right hand = GorillaLocomotion.GTPlayer.Instance.rightControllerTransform
+actual left hand = GorillaLocomotion.GTPlayer.Instance.leftControllerTransform
+headbodyoffset = GorillaTagger.Instance.offlineVRRig.headBodyOffset
+rig right hand = GorillaTagger.Instance.rightHandTransform
+rig left hand = GorillaTagger.Instance.leftHandTransform
+actual rig = GorillaLocomotion.GTPlayer.Instance
+head = GorillaTagger.Instance.offlineVRRig.head
+rigidbody = GorillaTagger.Instance.rigidbody
+cam = Camera.main
+actual rigidbody = GorillaLocomotion.GTPlayer.Instance.GetComponent<Rigidbody>()
+actual headcollider = GorillaLocomotion.GTPlayer.Instance.headCollider
+rig bodycollider = GorillaTagger.Instance.bodyCollider
+actual bodycollider =  GorillaLocomotion.GTPlayer.Instance.bodyCollider
+
+(not important stuff)
+PROTECTION NOTE: THIS TEMPLATE IS PROTECTED MATERIAL FROM "Project Malachi". 
+IF ANY MATERIAL FROM "MalachiTemp" FOUND IN ANY OTHER PROJECT/THING WITHOUT 
+CREDIT OR PERMISSION MUST AND WILL BE REMOVED IMMEDIATELY

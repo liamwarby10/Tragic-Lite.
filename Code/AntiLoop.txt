@@ -1,0 +1,29 @@
+the purpose of a "AntiLoop" is to make the disable method on buttons not
+constantly loop making the menu break. so anti loops r very useful
+USE A ANTI LOOP ON ALL MODS THAT HAVE DISABLE METHODS
+
+AntiLoop exp:
+
+public static bool AntiLoop;
+public static void EnableMethod()
+{
+   AntiLoop = true;
+   if (AntiLoop)
+   {
+      // enable code here
+   }
+}
+public static void DisableMethod()
+{
+   if (AntiLoop)
+   {
+      // disable code here
+      AntiLoop = false;
+   }
+}
+Heres an example of what the button should look like in WristMenu.cs:
+new ButtonInfo { buttonText = "PLACEHOLDER", method =() => Mods.EnableMethod(), disableMethod =() => Mods.DisableMethod(), enabled = false, toolTip = "PLACEHOLDER!"},
+(not important stuff)
+PROTECTION NOTE: THIS TEMPLATE IS PROTECTED MATERIAL FROM "Project Malachi". 
+IF ANY MATERIAL FROM "MalachiTemp" FOUND IN ANY OTHER PROJECT/THING WITHOUT 
+CREDIT OR PERMISSION MUST AND WILL BE REMOVED IMMEDIATELY

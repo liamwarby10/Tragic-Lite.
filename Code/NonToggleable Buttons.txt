@@ -1,0 +1,17 @@
+so if u want the button to disable as soon as u press it, then add this piece of code into the
+making button part:
+nontoggleable = true,
+
+NORMAL BUTTON EXAMPLE:
+
+new ButtonInfo { buttonText = "PLACEHOLDER", method =() => Mods.PLACEHOLDER(), enabled = false, toolTip = "PLACEHOLDER!"},
+
+NONTOGGLEABLE BUTTON EXAMPLE:
+
+new ButtonInfo { buttonText = "PLACEHOLDER", method =() => Mods.PLACEHOLDER(), enabled = false, nontoggleable = true, toolTip = "PLACEHOLDER!"},
+
+
+(not important stuff)
+PROTECTION NOTE: THIS TEMPLATE IS PROTECTED MATERIAL FROM "Project Malachi". 
+IF ANY MATERIAL FROM "MalachiTemp" FOUND IN ANY OTHER PROJECT/THING WITHOUT 
+CREDIT OR PERMISSION MUST AND WILL BE REMOVED IMMEDIATELY

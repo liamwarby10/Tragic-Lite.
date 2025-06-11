@@ -1,0 +1,21 @@
+also if u dont already know how to color a string, here u go:
+
+so put this before the text IN a string "<color=white>" then this after "</color>"
+so it should look like this
+string = "<color=white> hello </color>"
+u can change the color by removing the "white" part and changing it to any of these:
+
+red
+cyan
+magenta
+yellow
+blue
+green
+grey
+black
+white
+
+(not important stuff)
+PROTECTION NOTE: THIS TEMPLATE IS PROTECTED MATERIAL FROM "Project Malachi". 
+IF ANY MATERIAL FROM "MalachiTemp" FOUND IN ANY OTHER PROJECT/THING WITHOUT 
+CREDIT OR PERMISSION MUST AND WILL BE REMOVED IMMEDIATELY

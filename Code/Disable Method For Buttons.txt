@@ -1,0 +1,16 @@
+put this after the on method
+
+disableMethod =() => Mods.MODNAME(),
+
+replace "MODNAME" with the name of your method
+
+so the button should look like this
+
+new ButtonInfo { buttonText = "MOD", method =() => Mods.ENABLEMOD(), disableMethod =() => Mods.DISABLEMOD(), enabled = false, toolTip = "TOOLTIP!"},
+
+
+
+(not important stuff)
+PROTECTION NOTE: THIS TEMPLATE IS PROTECTED MATERIAL FROM "Project Malachi". 
+IF ANY MATERIAL FROM "MalachiTemp" FOUND IN ANY OTHER PROJECT/THING WITHOUT 
+CREDIT OR PERMISSION MUST AND WILL BE REMOVED IMMEDIATELY
