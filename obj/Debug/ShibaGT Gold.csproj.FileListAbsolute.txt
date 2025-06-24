@@ -1,0 +1,495 @@
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\ShibaGT Gold.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\ShibaGT Gold.pdb
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\0Harmony.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Assembly-CSharp.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonChat.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonRealtime.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonUnityNetworking.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonUnityNetworking.Utilities.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.API.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.PUN.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.AI.Navigation.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Burst.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Formats.Fbx.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.InputSystem.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.InputSystem.ForUI.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Mathematics.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Timeline.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.CoreUtils.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Interaction.Toolkit.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Management.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Oculus.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.OpenVR.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GIModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UI.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.Utils.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\netstandard.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\AstarPathfindingProject.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Photon3Unity3D.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.VR.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Platform.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PlayFab.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\SteamVR_Actions.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\SteamVR.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Backtrace.Unity.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Valve.Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\0Harmony.xml
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.xml
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.Utils.xml
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.pdb
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\AssistantCoreSDKRuntime.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Autodesk.Fbx.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BakeryRuntimeAssembly.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Harmony.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Preloader.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Cinemachine.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.Conduit.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.Dictation.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.TTS.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.TTS.Samples.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.WitAI.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\FbxBuildTestAssets.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\HarmonyXInterop.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\LitJson.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MeshBakerCore.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Security.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Newtonsoft.Json.UnityConverters.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.AudioManager.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Interaction.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Interaction.Samples.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.LipSync.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Spatializer.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Voice.Demo.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\TechniePhysicsCreator.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\VoiceSDK.Dictation.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\VoiceSDK.Runtime.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\websocket-sharp.dll
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Harmony.xml
+C:\Users\USER\OneDrive\Desktop\Displyy_Template (2)\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Preloader.xml
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\ShibaGT Gold.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\ShibaGT Gold.pdb
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\0Harmony.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Assembly-CSharp.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\AssistantCoreSDKRuntime.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\AstarPathfindingProject.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Autodesk.Fbx.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Backtrace.Unity.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BakeryRuntimeAssembly.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Harmony.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Preloader.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Cinemachine.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.Conduit.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.Dictation.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.TTS.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.TTS.Samples.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.WitAI.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\FbxBuildTestAssets.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\HarmonyXInterop.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\LitJson.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MeshBakerCore.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Security.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.Utils.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Newtonsoft.Json.UnityConverters.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.AudioManager.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Interaction.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Interaction.Samples.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.LipSync.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Platform.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Spatializer.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Voice.Demo.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.VR.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Photon3Unity3D.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonChat.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonRealtime.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonUnityNetworking.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonUnityNetworking.Utilities.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.API.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.PUN.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PlayFab.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\SteamVR.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\SteamVR_Actions.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\TechniePhysicsCreator.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.AI.Navigation.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Burst.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Formats.Fbx.Runtime.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.InputSystem.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.InputSystem.ForUI.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Mathematics.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Timeline.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.CoreUtils.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Interaction.Toolkit.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Management.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Oculus.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.OpenVR.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GIModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UI.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Valve.Newtonsoft.Json.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\VoiceSDK.Dictation.Runtime.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\VoiceSDK.Runtime.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\websocket-sharp.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\netstandard.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\0Harmony.xml
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.xml
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Harmony.xml
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Preloader.xml
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.Utils.xml
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.csproj.AssemblyReference.cache
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.csproj.CoreCompileInputs.cache
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.csproj.CopyComplete
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.dll
+C:\Users\shiba\Downloads\gold1\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.pdb
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\ShibaGT Gold.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\ShibaGT Gold.pdb
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\0Harmony.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Assembly-CSharp.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\AssistantCoreSDKRuntime.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\AstarPathfindingProject.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Autodesk.Fbx.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Backtrace.Unity.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BakeryRuntimeAssembly.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Harmony.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Preloader.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Cinemachine.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.Conduit.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.Dictation.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.TTS.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.TTS.Samples.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.WitAI.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\FbxBuildTestAssets.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\HarmonyXInterop.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\LitJson.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MeshBakerCore.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Security.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.Utils.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Newtonsoft.Json.UnityConverters.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.AudioManager.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Interaction.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Interaction.Samples.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.LipSync.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Platform.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Spatializer.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Voice.Demo.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.VR.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Photon3Unity3D.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonChat.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonRealtime.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonUnityNetworking.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonUnityNetworking.Utilities.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.API.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.PUN.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PlayFab.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\SteamVR.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\SteamVR_Actions.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\TechniePhysicsCreator.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.AI.Navigation.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Burst.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Formats.Fbx.Runtime.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.InputSystem.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.InputSystem.ForUI.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Mathematics.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Timeline.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.CoreUtils.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Interaction.Toolkit.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Management.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Oculus.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.OpenVR.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GIModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UI.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Valve.Newtonsoft.Json.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\VoiceSDK.Dictation.Runtime.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\VoiceSDK.Runtime.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\websocket-sharp.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\netstandard.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\0Harmony.xml
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.xml
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Harmony.xml
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Preloader.xml
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.Utils.xml
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.csproj.AssemblyReference.cache
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.csproj.CoreCompileInputs.cache
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.csproj.CopyComplete
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.dll
+C:\Users\bob\Downloads\Gorilla-Tag-Mod-Menu-Template-master\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Gold.pdb

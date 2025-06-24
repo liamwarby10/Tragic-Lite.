@@ -28,6 +28,9 @@ using GorillaTagScripts;// If you're using XR input features (optional)
 using UnityEngine.Networking;
 using System.Collections;
 using OVR;
+using POpusCodec.Enums;
+using static Photon.Voice.OpusCodec;
+using Photon.Voice.Unity;
 
 
 
@@ -127,6 +130,108 @@ namespace MalachiTemp.Backend
             // Cancel default Rigidbody motion
             GorillaLocomotion.GTPlayer.Instance.GetComponent<Rigidbody>().velocity = Vector3.zero;
         }
+        public static void StumpText()
+        {
+            GameObject StumpObj = new GameObject("STUMPOBJ");
+            TextMeshPro textobj = StumpObj.AddComponent<TextMeshPro>();
+            textobj.text = "<color=yellow>Tragic Lite</color> <color=grey>||</color> Version: 3.0.0 <color=grey>||</color> <color=green>Undetected</color>";
+            textobj.fontSize = 2f;
+            textobj.alignment = TextAlignmentOptions.Center;
+            textobj.color = Color.blue;
+            textobj.font = GameObject.Find("motdtext").GetComponent<TextMeshPro>().font;
+            UnityEngine.Object.Destroy(StumpObj, Time.deltaTime);
+            Transform shit = StumpObj.transform;
+            shit.GetComponent<TextMeshPro>().renderer.material.shader = Shader.Find("TextMeshPro/Distance Field");
+            shit.transform.localScale = new Vector3(0.6f, 0.6f, 0.6f);
+            shit.position = new Vector3(-63.5511f, 12.2094f, -82.6264f);
+            shit.LookAt(Camera.main.transform.position);
+            shit.Rotate(0f, 180f, 0f);
+        }
+
+        public static void rigdrone()
+        {
+            GorillaTagger.Instance.offlineVRRig.enabled = false;
+
+            float moveSpeed = 5f;
+            float rotateSpeed = 90f; // degrees per second
+            float delta = Time.deltaTime;
+
+            // Target rig transform
+            Transform rig = GorillaTagger.Instance.offlineVRRig.transform;
+
+            // === Up and Down ===
+            if (WristMenu.triggerDownR || UnityInput.Current.GetKey(KeyCode.Q))
+            {
+                rig.position += Vector3.up * moveSpeed * delta;
+            }
+            if (WristMenu.triggerDownL)
+            {
+                rig.position -= Vector3.up * moveSpeed * delta;
+            }
+
+            // === Rotation (Left Stick X) ===
+            Vector2 leftStick = ControllerInputPoller.instance.leftControllerPrimary2DAxis;
+            if (Mathf.Abs(leftStick.x) > 0.1f)
+            {
+                float yaw = leftStick.x * rotateSpeed * delta;
+                rig.Rotate(0f, yaw, 0f, Space.World);
+            }
+
+            // === Movement (Right Stick) ===
+            Vector2 rightStick = ControllerInputPoller.instance.rightControllerPrimary2DAxis;
+            rig.position += rig.forward * rightStick.y * moveSpeed * delta;
+            rig.position += rig.right * rightStick.x * moveSpeed * delta;
+
+            // === Optional: Rotate bodyCollider too to align visuals/physics ===
+            GorillaTagger.Instance.bodyCollider.transform.rotation = rig.rotation;
+        }
+    
+        public static void joystickflyy()
+        {
+            Vector2 rightStick = ControllerInputPoller.instance.rightControllerPrimary2DAxis;
+
+            Transform head = GorillaLocomotion.GTPlayer.Instance.headCollider.transform;
+            Transform body = GorillaTagger.Instance.bodyCollider.transform;
+
+            // Head-forward movement (true 3D direction)
+            Vector3 headForward = head.forward.normalized;
+
+            // Body strafe (flat, no vertical)
+            Vector3 bodyRight = new Vector3(body.right.x, 0, body.right.z).normalized;
+
+            // Combine input
+            Vector3 moveDirection = headForward * rightStick.y + bodyRight * rightStick.x;
+
+            // Normalize to avoid fast diagonals
+            moveDirection = Vector3.ClampMagnitude(moveDirection, 1f);
+
+            float maxSpeed = 25f;
+            float acceleration = 6f;
+
+            Vector3 targetVelocity = moveDirection * maxSpeed;
+            flyVelocity = Vector3.Lerp(flyVelocity, targetVelocity, Time.deltaTime * acceleration);
+
+            // Move the player
+            GorillaLocomotion.GTPlayer.Instance.transform.position += flyVelocity * Time.deltaTime;
+
+            // Cancel Rigidbody movement
+            Rigidbody rb = GorillaLocomotion.GTPlayer.Instance.GetComponent<Rigidbody>();
+            if (rb != null)
+            {
+                rb.velocity = Vector3.zero;
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
 
 
         public static void superflyyyy()
@@ -297,29 +402,17 @@ namespace MalachiTemp.Backend
                 if (!freezeTagManager.currentInfected.Contains(VRRig.LocalRig.Creator))
                 {
                     freezeTagManager.currentIt = VRRig.LocalRig.Creator;
-                    freezeTagManager.ChangeCurrentIt(VRRig.LocalRig.Creator, true);
+                    
                 }
                 else
                 {
-                    freezeTagManager.ChangeCurrentIt(PhotonNetwork.PlayerListOthers[UnityEngine.Random.Range(0, PhotonNetwork.PlayerListOthers.Length)]);
-                }
+                    
                 if (!AmbushTagManager.currentInfected.Contains(VRRig.LocalRig.Creator))
                 {
                     AmbushTagManager.currentIt = VRRig.LocalRig.Creator;
-                    AmbushTagManager.ChangeCurrentIt(VRRig.LocalRig.Creator, true);
+                    
                 }
-                else
-                {
-                    AmbushTagManager.ChangeCurrentIt(PhotonNetwork.PlayerListOthers[UnityEngine.Random.Range(0, PhotonNetwork.PlayerListOthers.Length)]);
-                }
-                if (!InfectionTagManager.currentInfected.Contains(VRRig.LocalRig.Creator))
-                {
-                    InfectionTagManager.currentIt = VRRig.LocalRig.Creator;
-                    InfectionTagManager.ChangeCurrentIt(VRRig.LocalRig.Creator, true);
-                }
-                else
-                {
-                    InfectionTagManager.ChangeCurrentIt(PhotonNetwork.PlayerListOthers[UnityEngine.Random.Range(0, PhotonNetwork.PlayerListOthers.Length)]);
+                
                 }
             }
         }
@@ -374,7 +467,7 @@ namespace MalachiTemp.Backend
 
         public static void BeaconEsp()
         {
-#
+                
             float beaconHeight = 50f; 
 
             foreach (VRRig vrrig in GorillaParent.instance.vrrigs) 
@@ -513,6 +606,38 @@ namespace MalachiTemp.Backend
                 }
             }
         }
+        public static void OculusMic()
+        {
+            Recorder recorder = GorillaTagger.Instance.offlineVRRig.GetComponent<Recorder>();
+            recorder.ReactOnSystemChanges = false;
+            recorder.SkipDeviceChangeChecks = true;
+            recorder.StopRecording();
+            recorder.SamplingRate = SamplingRate.Sampling08000;
+            recorder.Bitrate = 8000;
+            recorder.FrameDuration = FrameDuration.Frame20ms;
+            recorder.VoiceDetection = false;
+            recorder.StartRecording();
+        }
+        public static void LowQualityMicrophone()
+        {
+            Recorder myRecorder = GorillaTagger.Instance.myRecorder;
+            if (myRecorder != null)
+            {
+                myRecorder.SamplingRate = SamplingRate.Sampling08000;
+                myRecorder.Bitrate = 5000;
+                myRecorder.RestartRecording(true);
+            }
+        }
+        public static void VeryLowQualityMicrophone()
+        {
+            Recorder myRecorder = GorillaTagger.Instance.myRecorder;
+            if (myRecorder != null)
+            {
+                myRecorder.SamplingRate = SamplingRate.Sampling08000;
+                myRecorder.Bitrate = 2000;
+                myRecorder.RestartRecording(true);
+            }
+        }
         public static void TracersMod()
         {
             foreach (VRRig vrrig in GorillaParent.instance.vrrigs)
@@ -551,11 +676,16 @@ namespace MalachiTemp.Backend
             lerpygerpy = Vector2.Lerp(lerpygerpy, ControllerInputPoller.instance.rightControllerPrimary2DAxis, 0.05f);
             RaycastHit raycastHit;
             Physics.Raycast(GorillaTagger.Instance.bodyCollider.transform.position - new Vector3(0f, 0.2f, 0f), Vector3.down, out raycastHit, 512f);
+
             if (raycastHit.distance < 0.2f && (Mathf.Abs(lerpygerpy.x) > 0.05f || Mathf.Abs(lerpygerpy.y) > 0.05f))
             {
-                GorillaTagger.Instance.bodyCollider.attachedRigidbody.velocity = GorillaTagger.Instance.bodyCollider.transform.forward * lerpygerpy.y + GorillaTagger.Instance.bodyCollider.transform.right * lerpygerpy.x * 10f;
+                float speed = 10f; // Set the desired speed here
+                GorillaTagger.Instance.bodyCollider.attachedRigidbody.velocity =
+                    (GorillaTagger.Instance.bodyCollider.transform.forward * lerpygerpy.y * speed) +
+                    (GorillaTagger.Instance.bodyCollider.transform.right * lerpygerpy.x * speed);
             }
         }
+
         public static GameObject KickDistance;
         public static void Antireport()
         {
@@ -995,6 +1125,7 @@ namespace MalachiTemp.Backend
                 }
             }
         }
+
 
         public static void rideBat()
         {

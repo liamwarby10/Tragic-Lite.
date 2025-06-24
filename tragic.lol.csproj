@@ -33,6 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Backend\AntiCheatPatch.cs" />
+    <Compile Include="Backend\Class1.cs" />
     <Compile Include="Backend\collider.cs" />
     <Compile Include="Backend\GhostPatch.cs" />
     <Compile Include="Backend\OnJoin.cs" />

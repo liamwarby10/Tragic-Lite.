@@ -31,7 +31,7 @@ namespace MalachiTemp.UI
     }
     internal class WristMenu : MonoBehaviour
     {
-        public static string MenuTitle = "Tragic Lite V2"; // this is the menu name, you can change it to whatever you want
+        public static string MenuTitle = "𝗧𝗿𝗮𝗴𝗶𝗰 𝗟𝗶𝘁𝗲 𝗩𝟯"; // this is the menu name, you can change it to whatever you want
         public static Font MenuFont = Resources.GetBuiltinResource<Font>("Arial.ttf"); // font of the text on the menu
         // Double click a grey square to open it, click the - in the box to the left of "#region" to close it
         #region Main
@@ -64,6 +64,7 @@ namespace MalachiTemp.UI
             new ButtonInfo { buttonText = "Load Settings", method =() => Mods.Load(), enabled = false, nontoggleable = true, toolTip = "Load Your Settings!"},
             new ButtonInfo { buttonText = "FPS Boost", method =() => Mods.FPSboost(), disableMethod =() => Mods.fixFPS(), enabled = false, toolTip = "Boost Your FPS!"},
             new ButtonInfo { buttonText = "No Notis", method =() => Mods.Changenoti(), enabled = false, nontoggleable = true, toolTip = "Turn off Notis!"},
+            new ButtonInfo { buttonText = "Stump Text", method =() => Mods.StumpText(), enabled = true, nontoggleable = false, toolTip = "Stump Text!"},
             new ButtonInfo { buttonText = "Toggle FPS & Page Counter", method =() => Mods.ChangeFPS(), enabled = false, nontoggleable = true, toolTip = "Turn off or on the FPS & Page counter!"},
             new ButtonInfo { buttonText = "Change Gun & Hand Orb Color", method =() => Mods.ChangeOrbColor(), enabled = false, nontoggleable = true, toolTip = "Change the color of the gun and hand orbs!"},
             new ButtonInfo { buttonText = "Change ESP Color", method =() => Mods.ChangeVisualColor(), enabled = false, nontoggleable = true, toolTip = "Change the color of the ESP mods!"},
@@ -112,6 +113,7 @@ namespace MalachiTemp.UI
             new ButtonInfo { buttonText = "Invis Platforms", method =() => Mods.Invisableplatforms(), enabled = false, toolTip = "Platforms but invisable!"},
             new ButtonInfo { buttonText = "NoClip", method =() => Mods.Noclip(), enabled = false, toolTip = "Go through anything!"},
             new ButtonInfo { buttonText = "Fly", method =() => Mods.superflyy(), enabled = false, toolTip = "Fly like a bird!"},
+            new ButtonInfo { buttonText = "Joystick Fly", method =() => Mods.joystickflyy(), enabled = false, toolTip = "Fly like A Drone!"},
             new ButtonInfo { buttonText = "Fast Fly", method =() => Mods.superflyyyy(), enabled = false, toolTip = "Fly like a Hawk!"},
             new ButtonInfo { buttonText = "Trigger Fly", method =() => Mods.triggerfly(), enabled = false, toolTip = "Trigger Fly!"},
             new ButtonInfo { buttonText = "No Tag Freeze", method =() => Mods.TagFreezeDisabler(), enabled = false, toolTip = "No Tag Freeze!"},
@@ -121,7 +123,7 @@ namespace MalachiTemp.UI
             new ButtonInfo { buttonText = "Normal Arms", method =() => Mods.normalarms(), enabled = false, nontoggleable = true, toolTip = "Normal Arms!"},
             new ButtonInfo { buttonText = "Mega Long Arms", method =() => Mods.megalongarms(), enabled = false, nontoggleable = true, toolTip = "Mega Long Arms!"},
             new ButtonInfo { buttonText = "No Arm Length Limit", method =() => Mods.noarmlengthlimit(), enabled = false, nontoggleable = true, toolTip = "No Arm Length Limit!"},
-            new ButtonInfo { buttonText = "Slide Control!", method =() => Mods.SlideControl(), enabled = false, nontoggleable = false, toolTip = "Slide Control"},
+            new ButtonInfo { buttonText = "Slide Control", method =() => Mods.SlideControl(), enabled = false, nontoggleable = false, toolTip = "Slide Control"},
 
 
         };
@@ -129,7 +131,7 @@ namespace MalachiTemp.UI
         #region Category 4
         public static List<ButtonInfo> CatButtons4 = new List<ButtonInfo>
         {
-            new ButtonInfo { buttonText = "Exit Animals", method =() => Mods.Cat4(), enabled = false, toolTip = "Go to Main!"},
+            new ButtonInfo { buttonText = "Exit Fun", method =() => Mods.Cat4(), enabled = false, toolTip = "Go to Main!"},
             new ButtonInfo { buttonText = "Ride Bat", method =() => Mods.rideBat(), enabled = false, toolTip = "Ride Bat!"},
             new ButtonInfo { buttonText = "No Name", method =() => Mods.NoName1(), enabled = false, toolTip = "Press Enter On Name On Computer For Other People To See Your Name No Name!"},
             new ButtonInfo { buttonText = "Long Name", method =() => Mods.nameToExternal(), enabled = false, toolTip = "Press Enter On Computer On Name For Other People To See It Only Appears If They Have A Name Tag Mod!"},
@@ -160,6 +162,7 @@ namespace MalachiTemp.UI
             new ButtonInfo { buttonText = "Invis Monke", method =() => Mods.Invis(), enabled = false, toolTip = "Invisable monke!"},
             new ButtonInfo { buttonText = "Rig Gun", method =() => Mods.ExampleOnHowToUseGunLibV2(), enabled = false, toolTip = "Just for an example of the GunLib!"},
             new ButtonInfo { buttonText = "Grab Rig", method =() => Mods.GrabRigMod(), enabled = false, toolTip = "Grab Rig!"},
+            new ButtonInfo { buttonText = "Rig Drone", method =() => Mods.rigdrone(), enabled = false, toolTip = "Rig Drone!"},
         };
         #endregion
         #region Category 8
@@ -192,7 +195,7 @@ namespace MalachiTemp.UI
             "TragicX Motd", // motd title
             "TragicX Coc", // coc title
             "uhrgfhuifgdhufgdhuigrhuirgfuhigrdfhuirfgduhirgfuhirguhi", // coc description
-            "Thank You For Using Tragic Lite V2" // motd description
+            "Thank You For Using Tragic Lite V3" // motd description
         };
         public static string FolderName = "Malachi_Temp"; // this is the name for the folder that holds ur saved settings and buttons and other stuff
         #endregion 

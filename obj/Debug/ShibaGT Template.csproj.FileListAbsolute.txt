@@ -1,0 +1,421 @@
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Template.csproj.AssemblyReference.cache
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Template.csproj.CoreCompileInputs.cache
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\ShibaGT Template.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\ShibaGT Template.pdb
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\0Harmony.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Assembly-CSharp.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\AssistantCoreSDKRuntime.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\AstarPathfindingProject.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Autodesk.Fbx.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Backtrace.Unity.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BakeryRuntimeAssembly.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Harmony.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Preloader.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Cinemachine.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.Conduit.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.Dictation.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.TTS.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.Wit.TTS.Samples.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Facebook.WitAI.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\FbxBuildTestAssets.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\HarmonyXInterop.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\LitJson.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MeshBakerCore.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Mono.Security.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.Utils.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Newtonsoft.Json.UnityConverters.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.AudioManager.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Interaction.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Interaction.Samples.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.LipSync.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Platform.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Spatializer.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.Voice.Demo.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Oculus.VR.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Photon3Unity3D.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonChat.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonRealtime.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonUnityNetworking.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonUnityNetworking.Utilities.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.API.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PhotonVoice.PUN.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\PlayFab.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\SteamVR.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\SteamVR_Actions.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\TechniePhysicsCreator.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.AI.Navigation.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Burst.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Formats.Fbx.Runtime.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.InputSystem.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.InputSystem.ForUI.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Mathematics.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.Timeline.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.CoreUtils.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Interaction.Toolkit.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Management.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.Oculus.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Unity.XR.OpenVR.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GIModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UI.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\Valve.Newtonsoft.Json.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\VoiceSDK.Dictation.Runtime.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\VoiceSDK.Runtime.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\websocket-sharp.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\netstandard.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\0Harmony.xml
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.xml
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Harmony.xml
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\BepInEx.Preloader.xml
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\bin\Debug\MonoMod.Utils.xml
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Template.csproj.CopyComplete
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Template.dll
+C:\Users\shiba\Downloads\ShibaGTs Menu Template\Gorilla-Tag-Mod-Menu-Template-master\obj\Debug\ShibaGT Template.pdb
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.AssemblyReference.cache
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CoreCompileInputs.cache
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.pdb
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.pdb
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\0Harmony.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Assembly-CSharp.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\AssistantCoreSDKRuntime.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\AstarPathfindingProject.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Autodesk.Fbx.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Backtrace.Unity.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BakeryRuntimeAssembly.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Harmony.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Preloader.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Cinemachine.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Facebook.Wit.Conduit.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Facebook.Wit.Dictation.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Facebook.Wit.TTS.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Facebook.Wit.TTS.Samples.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Facebook.WitAI.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\FbxBuildTestAssets.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\HarmonyXInterop.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\LitJson.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MeshBakerCore.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Mono.Cecil.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Mono.Security.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.Utils.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\NavMeshComponents.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Newtonsoft.Json.UnityConverters.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Oculus.AudioManager.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Oculus.Interaction.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Oculus.Interaction.Samples.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Oculus.LipSync.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Oculus.Platform.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Oculus.Spatializer.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Oculus.Voice.Demo.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Oculus.VR.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Photon3Unity3D.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\PhotonChat.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\PhotonRealtime.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\PhotonUnityNetworking.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\PhotonUnityNetworking.Utilities.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\PhotonVoice.API.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\PhotonVoice.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\PhotonVoice.PUN.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\PlayFab.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\SteamVR.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\SteamVR_Actions.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\TechniePhysicsCreator.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.AI.Navigation.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.Burst.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.Formats.Fbx.Runtime.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.InputSystem.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.InputSystem.ForUI.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.Mathematics.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.Timeline.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.XR.CoreUtils.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.XR.Interaction.Toolkit.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.XR.Management.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.XR.Oculus.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Unity.XR.OpenVR.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.GIModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UI.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\Valve.Newtonsoft.Json.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\VoiceSDK.Dictation.Runtime.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\VoiceSDK.Runtime.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\websocket-sharp.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\netstandard.dll
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\0Harmony.xml
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.xml
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Harmony.xml
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Preloader.xml
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.Utils.xml
+C:\Users\mbarn\Downloads\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CopyComplete
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.dll
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.pdb
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\netstandard.dll
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\0Harmony.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Harmony.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Preloader.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.Utils.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.AssemblyReference.cache
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CoreCompileInputs.cache
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CopyComplete
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.dll
+C:\Users\mbarn\OneDrive\Desktop\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.pdb
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.dll
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.pdb
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\netstandard.dll
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\0Harmony.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Harmony.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Preloader.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.Utils.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.AssemblyReference.cache
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CoreCompileInputs.cache
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CopyComplete
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.dll
+C:\Users\mbarn\OneDrive\Desktop\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.pdb
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.dll
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.pdb
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\netstandard.dll
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\0Harmony.xml
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.xml
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Harmony.xml
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Preloader.xml
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.Utils.xml
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.AssemblyReference.cache
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CoreCompileInputs.cache
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CopyComplete
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.dll
+C:\Users\me\Downloads\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.pdb
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.dll
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.pdb
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\netstandard.dll
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\0Harmony.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Harmony.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Preloader.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.Utils.xml
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.AssemblyReference.cache
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CoreCompileInputs.cache
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CopyComplete
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.dll
+C:\Users\mbarn\OneDrive\Desktop\stuff_1\stuff (1)\stuff\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.pdb
+D:\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.dll
+D:\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.pdb
+D:\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\netstandard.dll
+D:\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\0Harmony.xml
+D:\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.xml
+D:\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Harmony.xml
+D:\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\BepInEx.Preloader.xml
+D:\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.RuntimeDetour.xml
+D:\stuff\my gtag mod menu\ShibaGTTemplate\bin\Debug\MonoMod.Utils.xml
+D:\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.AssemblyReference.cache
+D:\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CoreCompileInputs.cache
+D:\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CopyComplete
+D:\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.dll
+D:\stuff\my gtag mod menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.pdb
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\ShibaGT Template.pdb
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\netstandard.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.AssemblyReference.cache
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CoreCompileInputs.cache
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.csproj.CopyComplete
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\obj\Debug\ShibaGT Template.pdb
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\Assembly-CSharp.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\Fusion.Runtime.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\Fusion.Sockets.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\Fusion.Realtime.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\PhotonVoice.Fusion.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\Fusion.Common.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\Unity.Collections.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\NanoSockets.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\Unity.Collections.LowLevel.ILSupport.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\ZString.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\stuff\my gtag mod menu\priv menu\ShibaGTTemplate\bin\Debug\AA.Mothership.dll
