@@ -1,284 +1,218 @@
-﻿using System;
-using System.Collections.Generic;
-using UnityEngine;
 using BepInEx;
+using Photon.Pun;
+using MalachiTemp.Backend;
+using MalachiTemp.UI;
+using UnityEngine;
+using MalachiTemp.Utilities;
+using System.Collections.Generic;
+using Newtonsoft.Json;
 
-namespace MonkeyMansBasicGUITemp
+namespace dfgsfe
 {
-    [BepInPlugin("MonkeyMansBasicGUITemp", "Made By MonkeyMan love and thc <3", "1.0.0")]
+    /*
+       PROTECTION NOTE: THIS TEMPLATE IS PROTECTED MATERIAL FROM "Project Malachi". 
+       IF ANY MATERIAL FROM "MalachiTemp" FOUND IN ANY PROJECT/THING WITHOUT 
+       CREDIT OR PERMISSION MUST AND WILL BE REMOVED IMMEDIATELY
+    */
+    [BepInPlugin("malachis.temp", "malachis.temp.GUI", "1.0.0")]
     public class Gui : BaseUnityPlugin
     {
-        // --- GUI State Variables ---
-        private Rect windowRect = new Rect(50, 50, 400, 520);
-        private bool guiOpen = true; // Controls whether the GUI is drawn
-        // The scale and animationSpeed variables are not currently used for any animation/scaling
-        // functionality in this code. You can remove them if not planning to use them,
-        // or implement animation logic.
-        // private float scale = 1f;
-        // private float animationSpeed = 10f;
-
-        // Dragging is handled by GUI.DragWindow, so these are not needed for window movement
-        // private Vector2 dragStart;
-        // private bool dragging;
-
-        private int currentPage = 0; // Pagination isn't used with only 3 mods, but kept for future expansion
-        private const int buttonsPerPage = 5;
-
-        private float buttonWidth = 350f;
-        private float buttonHeight = 40f;
-        private float spacing = 8f;
-
-        private Texture2D gradientTexture; // Background gradient for the window
-        private GUIStyle windowStyle; // Custom style for the window
-        private GUIStyle buttonStyle; // Custom style for buttons/toggles
-        private GUIStyle boxStyle;    // Custom style for the enabled mods box
-
-        private List<ModInfo> allMods; // List to store all mod information
-
-        // --- Nested class for Mod Information ---
-        private class ModInfo
+        // Double click a grey square to open it, click the - in the box to the left of "#region" to close it
+        #region Gui
+        public void OnGUI()
         {
-            public string buttonText;
-            public Action OnEnable;
-            public Action OnDisable;
-            public bool toggleState;
-            // public bool onGui; // This field isn't explicitly used as all mods are on GUI
-        }
-
-        // --- Awake: Called when the plugin is loaded ---
-        private void Awake()
-        {
-            // Initialize the gradient background texture
-            gradientTexture = new Texture2D(1, 2);
-            gradientTexture.SetPixels(new Color[] { new Color(0f, 0f, 0.3f, 0.8f), new Color(0f, 0f, 0f, 0.8f) }); // Added alpha for transparency
-            gradientTexture.Apply();
-
-            // Initialize GUI styles (important for custom look and feel)
-            windowStyle = new GUIStyle(GUI.skin.window);
-            windowStyle.normal.background = gradientTexture; // Set the gradient as background
-            windowStyle.normal.textColor = Color.white;
-            windowStyle.fontStyle = FontStyle.Bold;
-            windowStyle.alignment = TextAnchor.UpperCenter;
-            windowStyle.padding = new RectOffset(5, 5, 25, 5); // Adjust padding for title
-
-            buttonStyle = new GUIStyle(GUI.skin.button);
-            buttonStyle.normal.textColor = Color.white;
-            buttonStyle.hover.textColor = Color.cyan;
-            buttonStyle.active.textColor = Color.green;
-            buttonStyle.normal.background = MakeTex(2, 2, new Color(0.1f, 0.1f, 0.2f, 0.7f)); // Darker, semi-transparent background
-            buttonStyle.hover.background = MakeTex(2, 2, new Color(0.2f, 0.2f, 0.4f, 0.8f));
-            buttonStyle.active.background = MakeTex(2, 2, new Color(0.0f, 0.3f, 0.0f, 0.9f)); // Green when pressed
-            buttonStyle.alignment = TextAnchor.MiddleCenter;
-            buttonStyle.fontStyle = FontStyle.Bold;
-
-            boxStyle = new GUIStyle(GUI.skin.box);
-            boxStyle.normal.background = MakeTex(2, 2, new Color(0.05f, 0.05f, 0.1f, 0.7f)); // Slightly darker than buttons
-            boxStyle.normal.textColor = Color.white;
-            boxStyle.alignment = TextAnchor.UpperLeft;
-            boxStyle.padding = new RectOffset(10, 10, 10, 10);
-
-
-            // Define your mods here
-            allMods = new List<ModInfo>
+            if (open)
             {
-                new ModInfo
+                if (Mods.RGBMenu)
                 {
-                    buttonText = "WASD Fly",
-                    OnEnable = () => Mods.EnableWASDFly(),
-                    OnDisable = () => Mods.DisableWASDFly(),
-                    toggleState = false // Initial state
-                },
-                new ModInfo
-                {
-                    buttonText = "Bug Gun",
-                    OnEnable = () => Mods.EnableBugGun(),
-                    OnDisable = () => Mods.DisableBugGun(),
-                    toggleState = false
-                },
-                new ModInfo
-                {
-                    buttonText = "Bat Gun",
-                    OnEnable = () => Mods.GunMod.EnableGunTemplate(),
-                    OnDisable = () => Mods.GunMod.DisableGunTemplate(),
-                    toggleState = false
+                    GUI.color = Color.Lerp(WristMenu.menuObj.GetComponent<ColorChanger>().color, WristMenu.menuObj.GetComponent<ColorChanger>().color, Mathf.PingPong(Time.time, 1f));
+                    GUI.backgroundColor = Color.Lerp(WristMenu.menuObj.GetComponent<ColorChanger>().color, WristMenu.menuObj.GetComponent<ColorChanger>().color, Mathf.PingPong(Time.time, 1f));
+                    GUI.contentColor = Color.Lerp(WristMenu.menuObj.GetComponent<ColorChanger>().color, WristMenu.menuObj.GetComponent<ColorChanger>().color, Mathf.PingPong(Time.time, 1f));
                 }
-            };
-        }
-
-        // Helper to create a solid color texture for GUIStyles
-        private Texture2D MakeTex(int width, int height, Color col)
-        {
-            Color[] pix = new Color[width * height];
-            for (int i = 0; i < pix.Length; ++i)
-            {
-                pix[i] = col;
-            }
-            Texture2D result = new Texture2D(width, height);
-            result.SetPixels(pix);
-            result.Apply();
-            return result;
-        }
-
-        // --- Update: Handle input for toggling GUI visibility ---
-        private void Update()
-        {
-            // Toggle GUI visibility with 'R' key
-            if (Input.GetKeyDown(KeyCode.R))
-            {
-                guiOpen = !guiOpen;
-            }
-        }
-
-        // --- OnGUI: The main drawing function for the GUI ---
-        private void OnGUI()
-        {
-            // Only draw the window if guiOpen is true
-            if (!guiOpen)
-            {
-                return;
-            }
-
-            // Apply global scaling if you intend to use it, otherwise remove this section
-            // GUI.matrix = Matrix4x4.TRS(Vector3.zero, Quaternion.identity, Vector3.one * scale);
-
-            // Draw the GUI window using the custom windowStyle
-            windowRect = GUI.Window(123456, windowRect, WindowFunction, "MONKEYMAN GUI - By MonkeyMan <3", windowStyle);
-
-            // Reset matrix if scaling was applied
-            // GUI.matrix = Matrix4x4.identity;
-        }
-
-        // --- WindowFunction: Defines the contents of the GUI window ---
-        private void WindowFunction(int windowID)
-        {
-            // The gradientTexture is now set in the windowStyle, so you don't need GUI.DrawTexture here
-            // GUI.DrawTexture(new Rect(0, 0, windowRect.width, windowRect.height), gradientTexture);
-
-            // Draw window outline based on mouse hover
-            Color outlineColor = new Rect(0, 0, windowRect.width, windowRect.height).Contains(Event.current.mousePosition) ? Color.red : Color.blue;
-            DrawOutline(new Rect(0, 0, windowRect.width, windowRect.height), 3, outlineColor);
-
-            // --- Window Dragging: Use GUI.DragWindow for proper dragging ---
-            // This line tells Unity that dragging within the top bar of the window should move the window.
-            // Remove your manual dragging logic: dragStart, dragging variables and the if (dragging) block.
-            GUI.DragWindow(new Rect(0, 0, windowRect.width, 30)); // Make the top 30 pixels draggable
-
-            float y = 30f; // Starting Y position for buttons, below the title bar
-
-            // Discord Button
-            Rect discordRect = new Rect((windowRect.width - buttonWidth) / 2, y, buttonWidth, buttonHeight);
-            if (GUI.Button(discordRect, "TragicX Discord", buttonStyle))
-            {
-                Application.OpenURL("https://discord.gg/YQBMARtT");
-            }
-            y += buttonHeight + spacing;
-
-            // Mod Toggles (using custom buttonStyle for toggles too)
-            // No pagination implemented here as there are only 3 mods; if you add more, consider adding page navigation.
-            foreach (var mod in allMods)
-            {
-                Rect toggleRect = new Rect((windowRect.width - buttonWidth) / 2, y, buttonWidth, buttonHeight);
-                // Use GUI.Toggle with the custom buttonStyle
-                bool newToggleState = GUI.Toggle(toggleRect, mod.toggleState, mod.buttonText, buttonStyle);
-
-                // Check if the toggle state has changed and update the mod's state
-                if (newToggleState != mod.toggleState)
+                else
                 {
-                    mod.toggleState = newToggleState; // Update the internal state
-                    if (mod.toggleState) // If new state is true (enabled)
+                    GUI.color = Color.Lerp(WristMenu.FirstColor, WristMenu.SecondColor, Mathf.PingPong(Time.time, 1f));
+                    GUI.backgroundColor = Color.Lerp(WristMenu.FirstColor, WristMenu.SecondColor, Mathf.PingPong(Time.time, 1f));
+                    GUI.contentColor = Color.Lerp(WristMenu.FirstColor, WristMenu.SecondColor, Mathf.PingPong(Time.time, 1f));
+                }
+                GUI.Box(new Rect(window.x, window.y + 7f, window.width, window.height + 2f), "");
+                GUIStyle n = new GUIStyle(GUI.skin.label) { fontSize = 13, };
+                GUI.Label(new Rect(window.x, window.y + 5f, 500f, 500f), "<color=white>|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|</color>", n);
+                GUI.Label(new Rect(window.x + 100f, window.y + 5f, 500f, 500f), "<color=white>|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|</color>", n);
+                GUI.Label(new Rect(window.x + 340f, window.y + 5f, 500f, 500f), "<color=white>|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|</color>", n);
+                GUI.Label(new Rect(window.x + 3f, window.y, 500f, 500f), "<color=white>------------------------------------------------------------------------------------</color>", n);
+                GUI.Label(new Rect(window.x + 3f, window.y + 250f, 500f, 500f), "<color=white>------------------------------------------------------------------------------------</color>", n);
+                GUI.Label(new Rect(window.x + 3f, window.y + 280f, 500f, 500f), "<color=white>------------------------------------------------------------------------------------</color>", n);
+                if (GUI.Button(new Rect(window.x + 4f, window.y + 265f, 334f, 25f), "<color=white>Disconnect</color>"))
+                {
+                    if (PhotonNetwork.InRoom)
                     {
-                        mod.OnEnable?.Invoke(); // Call enable action if it exists
+                        PhotonNetwork.Disconnect();
                     }
-                    else // If new state is false (disabled)
+                    GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                }
+                if (GUI.Button(new Rect(window.x + 4f, window.y + 15f, 96f, 20f), "<color=white>Settings</color>"))
+                {
+                    GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                    buttons = WristMenu.settingsbuttons;
+                    CatOpen = true;
+                }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 37f, 96f, 20f), "<color=white>" + WristMenu.buttons[3].buttonText + "</color>"))
                     {
-                        mod.OnDisable?.Invoke(); // Call disable action if it exists
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons1;
+                        CatOpen = true;
+                    }
+                } catch { }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 59f, 96f, 20f), "<color=white>" + WristMenu.buttons[4].buttonText + "</color>"))
+                    {
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons2;
+                        CatOpen = true;
+                    }
+                } catch { }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 81f, 96f, 20f), "<color=white>" + WristMenu.buttons[5].buttonText + "</color>"))
+                    {
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons3;
+                        CatOpen = true;
+                    }
+                } catch { }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 102f, 96f, 20f), "<color=white>" + WristMenu.buttons[6].buttonText + "</color>"))
+                    {
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons4;
+                        CatOpen = true;
+                    }
+                } catch { }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 124f, 96f, 20f), "<color=white>" + WristMenu.buttons[7].buttonText + "</color>"))
+                    {
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons5;
+                        CatOpen = true;
+                    }
+                } catch { }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 146f, 96f, 20f), "<color=white>" + WristMenu.buttons[8].buttonText + "</color>"))
+                    {
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons6;
+                        CatOpen = true;
+                    }
+                } catch { }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 168f, 96f, 20f), "<color=white>" + WristMenu.buttons[9].buttonText + "</color>"))
+                    {
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons7;
+                        CatOpen = true;
+                    }
+                } catch { }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 190f, 96f, 20f), "<color=white>" + WristMenu.buttons[10].buttonText + "</color>"))
+                    {
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons8;
+                        CatOpen = true;
+                    }
+                } catch { }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 212f, 96f, 20f), "<color=white>" + WristMenu.buttons[11].buttonText + "</color>"))
+                    {
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons9;
+                        CatOpen = true;
+                    }
+                } catch { }
+                try
+                {
+                    if (GUI.Button(new Rect(window.x + 4f, window.y + 234f, 96f, 20f), "<color=white>" + WristMenu.buttons[12].buttonText + "</color>"))
+                    {
+                        GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        buttons = WristMenu.CatButtons10;
+                        CatOpen = true;
+                    }
+                } catch { }
+                DrawButtons(buttons);
+                Dragging();
+            }
+        }
+        #endregion
+        #region Update
+        public void Update()
+        {
+            if (UnityInput.Current.GetKeyDown(OpenAndCloseGUI))
+            {
+                open = !open;
+            }
+        }
+        private void Dragging()
+        {
+            if (Event.current.type == EventType.MouseDown && window.Contains(Event.current.mousePosition))
+            {
+                dragging = true;
+                dragstart = Event.current.mousePosition - new Vector2(window.x, window.y);
+            }
+            else
+            {
+                if (Event.current.type == EventType.MouseUp)
+                {
+                    dragging = false;
+                }
+            }
+            if (dragging)
+            {
+                window.position = Event.current.mousePosition - dragstart;
+            }
+        }
+        #endregion
+        #region Buttons
+        public static void DrawButtons(List<ButtonInfo> Buttons)
+        {
+            if (CatOpen)
+            {
+                float width; if (Buttons.Count > 9) { width = 218f; } else { width = 228f; }
+                scrollPosition = GUI.BeginScrollView(new Rect(window.x + 100f, window.y + 15f, 240f, 240f), scrollPosition, new Rect(0f, 0f, 0f, Buttons.Count * 26));
+                for (int i = 0; i < Buttons.Count; i++)
+                {
+                    if (GUI.Button(new Rect(7f, 5 + i * 26, width, 20f), "<color=white>" + Buttons[i].buttonText + "</color>"))
+                    {
+                        if (Buttons[i].buttonText.Contains("Exit")) { CatOpen = false; }
+                        else
+                        {
+                            Buttons[i].enabled = !Buttons[i].enabled;
+                            WristMenu.lastPressedButtonIndex = i;
+                            GorillaTagger.Instance.offlineVRRig.PlayHandTapLocal(Mods.ButtonSound, false, 0.1f);
+                        }
                     }
                 }
-                y += buttonHeight + spacing;
-            }
-
-            // Display Enabled Mods Box
-            string enabledModsText = "Enabled Mods:\n";
-            foreach (var mod in allMods)
-            {
-                if (mod.toggleState)
-                {
-                    enabledModsText += "- " + mod.buttonText + "\n"; // Added a bullet point for clarity
-                }
-            }
-
-            float enabledModsHeight = windowRect.height - y - 10f; // Adjusted height for bottom margin
-            GUI.Box(new Rect(10, y, windowRect.width - 20, enabledModsHeight), enabledModsText, boxStyle);
-        }
-
-        // --- DrawOutline: Helper to draw a border around the window ---
-        private void DrawOutline(Rect rect, int thickness, Color color)
-        {
-            Color oldColor = GUI.color;
-            GUI.color = color;
-
-            GUI.DrawTexture(new Rect(rect.x, rect.y, rect.width, thickness), Texture2D.whiteTexture); // Top
-            GUI.DrawTexture(new Rect(rect.x, rect.y + rect.height - thickness, rect.width, thickness), Texture2D.whiteTexture); // Bottom
-            GUI.DrawTexture(new Rect(rect.x, rect.y + thickness, thickness, rect.height - 2 * thickness), Texture2D.whiteTexture); // Left
-            GUI.DrawTexture(new Rect(rect.x + rect.width - thickness, rect.y + thickness, thickness, rect.height - 2 * thickness), Texture2D.whiteTexture); // Right
-
-            GUI.color = oldColor;
-        }
-    }
-
-    // --- Mods Class: Contains your actual mod logic ---
-    // (No changes needed here, assuming your actual mod logic works as intended)
-    public static class Mods
-    {
-        private static bool wasdFlyEnabled = false;
-        public static void EnableWASDFly()
-        {
-            if (wasdFlyEnabled) return;
-            wasdFlyEnabled = true;
-            Debug.Log("WASD Fly Enabled");
-            // Your actual WASD fly logic here
-        }
-        public static void DisableWASDFly()
-        {
-            if (!wasdFlyEnabled) return;
-            wasdFlyEnabled = false;
-            Debug.Log("WASD Fly Disabled");
-            // Your logic to disable WASD fly here
-        }
-
-        private static bool bugGunEnabled = false;
-        public static void EnableBugGun()
-        {
-            if (bugGunEnabled) return;
-            bugGunEnabled = true;
-            Debug.Log("Bug Gun Enabled");
-            // Your bug gun enable code here
-        }
-        public static void DisableBugGun()
-        {
-            if (!bugGunEnabled) return;
-            bugGunEnabled = false;
-            Debug.Log("Bug Gun Disabled");
-            // Your bug gun disable code here
-        }
-
-        public static class GunMod
-        {
-            private static bool gunTemplateEnabled = false;
-            public static void EnableGunTemplate()
-            {
-                if (gunTemplateEnabled) return;
-                gunTemplateEnabled = true;
-                Debug.Log("Gun Template Enabled");
-                // Your gun template enable code here
-            }
-            public static void DisableGunTemplate()
-            {
-                if (!gunTemplateEnabled) return;
-                gunTemplateEnabled = false;
-                Debug.Log("Gun Template Disabled");
-                // Your gun template disable code here
+                GUI.EndScrollView();
             }
         }
+        #endregion
+        #region Vars
+        private bool open = true;
+        public static bool CatOpen;
+        public static KeyCode OpenAndCloseGUI = KeyCode.Insert; // insert (INS) to open and close the gui, u can change this to whatever u want by remove the "KeyCode.Insert" with "KeyCode." then whatever key u want
+        static Vector2 scrollPosition;
+        public static Rect window = new Rect(0f, 0f, 340f, 280f);
+        private Vector2 dragstart;
+        private bool dragging = false;
+        public static List<ButtonInfo> buttons = new List<ButtonInfo>();
+        #endregion
     }
 }

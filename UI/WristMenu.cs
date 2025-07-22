@@ -9,7 +9,6 @@ using System.Linq;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-using static MalachiTemp.Backend.Mods;
 using Text = UnityEngine.UI.Text;
 
 
@@ -31,7 +30,7 @@ namespace MalachiTemp.UI
     }
     internal class WristMenu : MonoBehaviour
     {
-        public static string MenuTitle = "𝗧𝗿𝗮𝗴𝗶𝗰 𝗟𝗶𝘁𝗲 𝗩𝟯"; // this is the menu name, you can change it to whatever you want
+        public static string MenuTitle = "Tragic Lite V3"; // this is the menu name, you can change it to whatever you want
         public static Font MenuFont = Resources.GetBuiltinResource<Font>("Arial.ttf"); // font of the text on the menu
         // Double click a grey square to open it, click the - in the box to the left of "#region" to close it
         #region Main
@@ -64,7 +63,7 @@ namespace MalachiTemp.UI
             new ButtonInfo { buttonText = "Load Settings", method =() => Mods.Load(), enabled = false, nontoggleable = true, toolTip = "Load Your Settings!"},
             new ButtonInfo { buttonText = "FPS Boost", method =() => Mods.FPSboost(), disableMethod =() => Mods.fixFPS(), enabled = false, toolTip = "Boost Your FPS!"},
             new ButtonInfo { buttonText = "No Notis", method =() => Mods.Changenoti(), enabled = false, nontoggleable = true, toolTip = "Turn off Notis!"},
-            new ButtonInfo { buttonText = "Stump Text", method =() => Mods.StumpText(), enabled = true, nontoggleable = false, toolTip = "Stump Text!"},
+            new ButtonInfo { buttonText = "Stump Status", method =() => Mods.StumpText(), enabled = true, nontoggleable = false, toolTip = "Stump Status"},
             new ButtonInfo { buttonText = "Toggle FPS & Page Counter", method =() => Mods.ChangeFPS(), enabled = false, nontoggleable = true, toolTip = "Turn off or on the FPS & Page counter!"},
             new ButtonInfo { buttonText = "Change Gun & Hand Orb Color", method =() => Mods.ChangeOrbColor(), enabled = false, nontoggleable = true, toolTip = "Change the color of the gun and hand orbs!"},
             new ButtonInfo { buttonText = "Change ESP Color", method =() => Mods.ChangeVisualColor(), enabled = false, nontoggleable = true, toolTip = "Change the color of the ESP mods!"},
@@ -72,13 +71,13 @@ namespace MalachiTemp.UI
             new ButtonInfo { buttonText = "Change Disconnect Location", method =() => Mods.Changedisconnect(), enabled = false, nontoggleable = true, toolTip = "Change the location of the disconnect button!"},
             new ButtonInfo { buttonText = "Change Menu Location", method =() => Mods.Changemenu(), enabled = false, nontoggleable = true, toolTip = "Change the location of the menu!"},
             new ButtonInfo { buttonText = "Change Next & Prev", method =() => Mods.Changepagebutton(), enabled = false, nontoggleable = true, toolTip = "Change the location of the next and prev page buttons!"},
-            new ButtonInfo { buttonText = "Change First Menu Color", method =() => Mods.ThemeChangerV1(), enabled = false, nontoggleable = true, toolTip = "Change the first color the menu fades to!"},
-            new ButtonInfo { buttonText = "Change Secound Menu Color", method =() => Mods.ThemeChangerV2(), enabled = false, nontoggleable = true, toolTip = "Change the second color the menu fades to!"},
-            new ButtonInfo { buttonText = "Change The Button Color When They Are Enabled", method =() => Mods.ThemeChangerV3(), enabled = false, nontoggleable = true, toolTip = "Change the color of buttons when they are disabled!"},
-            new ButtonInfo { buttonText = "Change The Button Color When They Are Disabled", method =() => Mods.ThemeChangerV4(), enabled = false, nontoggleable = true, toolTip = "Change the color of buttons when they are enabled!"},
-            new ButtonInfo { buttonText = "Change Text Color When Enabled", method =() => Mods.ThemeChangerV5(), enabled = false, nontoggleable = true, toolTip = "Change the color of the text on buttons when they are enabled!"},
-            new ButtonInfo { buttonText = "Change Text Colors When Disabled", method =() => Mods.ThemeChangerV6(), enabled = false, nontoggleable = true, toolTip = "Change the color of the text on buttons when they are disabled!"},
-            new ButtonInfo { buttonText = "Change Button Press Sound", method =() => Mods.ThemeChangerV7(), enabled = false, nontoggleable = true, toolTip = "Change the sound of buttons!"},
+            new ButtonInfo { buttonText = "First Menu Color", method =() => Mods.ThemeChangerV1(), enabled = false, nontoggleable = true, toolTip = "Change the first color the menu fades to!"},
+            new ButtonInfo { buttonText = "Second Menu Color", method =() => Mods.ThemeChangerV2(), enabled = false, nontoggleable = true, toolTip = "Change the second color the menu fades to!"},
+            new ButtonInfo { buttonText = "Button Disabled Color", method =() => Mods.ThemeChangerV3(), enabled = false, nontoggleable = true, toolTip = "Change the color of buttons when they are disabled!"},
+            new ButtonInfo { buttonText = "Button Enabled Color", method =() => Mods.ThemeChangerV4(), enabled = false, nontoggleable = true, toolTip = "Change the color of buttons when they are enabled!"},
+            new ButtonInfo { buttonText = "Button Text Enabled Color", method =() => Mods.ThemeChangerV5(), enabled = false, nontoggleable = true, toolTip = "Change the color of the text on buttons when they are enabled!"},
+            new ButtonInfo { buttonText = "Button Text Disabled Color", method =() => Mods.ThemeChangerV6(), enabled = false, nontoggleable = true, toolTip = "Change the color of the text on buttons when they are disabled!"},
+            new ButtonInfo { buttonText = "Button Sound", method =() => Mods.ThemeChangerV7(), enabled = false, nontoggleable = true, toolTip = "Change the sound of buttons!"},
         };
         #endregion
         #region Category 1
@@ -113,7 +112,9 @@ namespace MalachiTemp.UI
             new ButtonInfo { buttonText = "Invis Platforms", method =() => Mods.Invisableplatforms(), enabled = false, toolTip = "Platforms but invisable!"},
             new ButtonInfo { buttonText = "NoClip", method =() => Mods.Noclip(), enabled = false, toolTip = "Go through anything!"},
             new ButtonInfo { buttonText = "Fly", method =() => Mods.superflyy(), enabled = false, toolTip = "Fly like a bird!"},
-            new ButtonInfo { buttonText = "Joystick Fly", method =() => Mods.joystickflyy(), enabled = false, toolTip = "Fly like A Drone!"},
+            new ButtonInfo { buttonText = "Freecam", method =() => Mods.freecam(), enabled = false, toolTip = "Fly like a Hawk!"},
+            new ButtonInfo { buttonText = "Fix Rig", method =() => Mods.fixrig(), enabled = false, nontoggleable = true, toolTip = "Fixes Rig!"},
+            new ButtonInfo { buttonText = "Joystick Fly", method =() => Mods.joystickflyy(), enabled = false, toolTip = "Fly like A Drone!"},  
             new ButtonInfo { buttonText = "Fast Fly", method =() => Mods.superflyyyy(), enabled = false, toolTip = "Fly like a Hawk!"},
             new ButtonInfo { buttonText = "Trigger Fly", method =() => Mods.triggerfly(), enabled = false, toolTip = "Trigger Fly!"},
             new ButtonInfo { buttonText = "No Tag Freeze", method =() => Mods.TagFreezeDisabler(), enabled = false, toolTip = "No Tag Freeze!"},
@@ -136,21 +137,23 @@ namespace MalachiTemp.UI
             new ButtonInfo { buttonText = "No Name", method =() => Mods.NoName1(), enabled = false, toolTip = "Press Enter On Name On Computer For Other People To See Your Name No Name!"},
             new ButtonInfo { buttonText = "Long Name", method =() => Mods.nameToExternal(), enabled = false, toolTip = "Press Enter On Computer On Name For Other People To See It Only Appears If They Have A Name Tag Mod!"},
             new ButtonInfo { buttonText = "Name To Discord Invite", method =() => Mods.NameToDiscord(), enabled = false, toolTip = "Press Enter On Computer On Name For Other People To See It Only Appears If They Have A Name Tag Mod!"},
+            new ButtonInfo { buttonText = "Hand Orbs", method =() => Mods.handorbs(), enabled = false, toolTip = "Puts Orbs On Your Hands"},
         };
         #region Category 5
         public static List<ButtonInfo> CatButtons5 = new List<ButtonInfo>
         {
             new ButtonInfo { buttonText = "Exit Pc", method =() => Mods.Cat5(), enabled = false, toolTip = "Go to Main!"},
+            new ButtonInfo { buttonText = "Wasd Fly", method =() => Mods.WASDFly(), enabled = false, toolTip = "Makes You Fly With Wasd"},
         };
         #endregion
         #region Category 6
         public static List<ButtonInfo> CatButtons6 = new List<ButtonInfo>
         {
             new ButtonInfo { buttonText = "Exit Master", method =() => Mods.Cat6(), enabled = false, toolTip = "Go to Main!"},
-            new ButtonInfo { buttonText = "Bug Gun", method =() => Mods.floatingbugholdable.GunTemplate(), enabled = false, toolTip = "Just for an example of the GunLib!"},
-            new ButtonInfo { buttonText = "Bat Gun", method =() => Mods.GunMod.GunTemplate(), enabled = false, toolTip = "Just for an example of the GunLib!"},
-            new ButtonInfo { buttonText = "Grab Bug", method =() => Mods.GrabBug(), enabled = false, toolTip = "Grab Gub!"},
-            new ButtonInfo { buttonText = "Grab Bat", method =() => Mods.GrabBat(), enabled = false, toolTip = "Grab Bat!"},
+            new ButtonInfo { buttonText = "Bug Gun [M]", method =() => Mods.floatingbugholdable.GunTemplate(), enabled = false, toolTip = "Just for an example of the GunLib!"},
+            new ButtonInfo { buttonText = "Bat Gun [M]", method =() => Mods.GunMod.GunTemplate(), enabled = false, toolTip = "Just for an example of the GunLib!"},
+            new ButtonInfo { buttonText = "Grab Bug [M]", method =() => Mods.GrabBug(), enabled = false, toolTip = "Grab Gub!"},
+            new ButtonInfo { buttonText = "Grab Bat [M]", method =() => Mods.GrabBat(), enabled = false, toolTip = "Grab Bat!"},
 
         };
         #endregion
@@ -163,6 +166,10 @@ namespace MalachiTemp.UI
             new ButtonInfo { buttonText = "Rig Gun", method =() => Mods.ExampleOnHowToUseGunLibV2(), enabled = false, toolTip = "Just for an example of the GunLib!"},
             new ButtonInfo { buttonText = "Grab Rig", method =() => Mods.GrabRigMod(), enabled = false, toolTip = "Grab Rig!"},
             new ButtonInfo { buttonText = "Rig Drone", method =() => Mods.rigdrone(), enabled = false, toolTip = "Rig Drone!"},
+            new ButtonInfo { buttonText = "Fix Rig", method =() => Mods.fix(), enabled = false, toolTip = "Fix Rig"},
+            new ButtonInfo { buttonText = "Break Neck", method =() => Mods.breaknek(), enabled = false, toolTip = "Break Neck!"},
+            new ButtonInfo { buttonText = "Fix Head", method =() => Mods.fix(), enabled = false, toolTip = "Fix Head"},
+            new ButtonInfo { buttonText = "Backwards Head", method =() => Mods.backwardshead(), enabled = false, toolTip = "Backwards Head!"},
         };
         #endregion
         #region Category 8
@@ -177,7 +184,7 @@ namespace MalachiTemp.UI
         {
             new ButtonInfo { buttonText = "Exit Advantages", method =() => Mods.Cat9(), enabled = false, toolTip = "Go to Main!"},
             new ButtonInfo { buttonText = "Tag All", method =() => Mods.TagAll(), enabled = false, toolTip = "Tag All!"},
-            new ButtonInfo { buttonText = "Fix Your Rig", method =() => Mods.Ghostmonke(), enabled = false, nontoggleable = true, toolTip = "Fix Your Rig!"},
+            new ButtonInfo { buttonText = "Fix Rig", method =() => Mods.fixrig(), enabled = false, nontoggleable = true, toolTip = "Fixes Rig!"},
         };
         #endregion
         #region Category 10
@@ -190,14 +197,19 @@ namespace MalachiTemp.UI
         };
         #endregion
         #region Other Stuff
-        public static string[] CustomBoardTexts = new string[] // make sure to keep them in order
-        {
-            "TragicX Motd", // motd title
-            "TragicX Coc", // coc title
-            "uhrgfhuifgdhufgdhuigrhuirgfuhigrdfhuirfgduhirgfuhirguhi", // coc description
-            "Thank You For Using Tragic Lite V3" // motd description
-        };
+        public static string[] CustomBoardTexts = new string[] {
+    "TragicX Motd", // motd title
+    "Letter Meaning", // coc title
+    "M Master\n" +
+    "D Detected\n" +
+    "D! Very Detected\n" +
+    "D? Might Be Detected\n" +
+    "W? Might Be Working", // coc description (5 paragraphs of random letters)
+    "Thank You For Using Tragic Lite V3" // motd description
+};
+
         public static string FolderName = "Malachi_Temp"; // this is the name for the folder that holds ur saved settings and buttons and other stuff
+        #endregion 
         #endregion 
         #region Colors
         // i recommend keeping all this stuff the same, you can always mess with the theme changers to get the colors and stuff you want
@@ -635,12 +647,12 @@ namespace MalachiTemp.UI
                 }
                 if (custom)
                 {
-                    GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/motd (1)").GetComponent<TextMeshPro>().text = CustomBoardTexts[0];
-                    GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/CodeOfConduct").GetComponent<TextMeshPro>().text = CustomBoardTexts[1];
-                    GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/COC Text").GetComponent<TextMeshPro>().text = CustomBoardTexts[2];
+                    GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/motdHeadingText").GetComponent<TextMeshPro>().text = CustomBoardTexts[0];
+                    GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/CodeOfConductHeadingText").GetComponent<TextMeshPro>().text = CustomBoardTexts[1];
+                    GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/COCBodyText_TitleData").GetComponent<TextMeshPro>().text = CustomBoardTexts[2];
                     if (PhotonNetwork.IsConnectedAndReady)
                     {
-                        GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/motdtext").GetComponent<TextMeshPro>().text = CustomBoardTexts[3];
+                        GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/motdBodyText").GetComponent<TextMeshPro>().text = CustomBoardTexts[3];
                         custom = false;
                     }
                 }
@@ -2445,7 +2457,6 @@ namespace MalachiTemp.UI
                         }
                     }
                 }
-
                 if (Mods.inCat5)
                 {
                     int num = (CatButtons5.Count + pageSize - 1) / pageSize;
@@ -2636,7 +2647,6 @@ namespace MalachiTemp.UI
                                         tooltipString = GetButtonTooltip(lastPressedButtonIndex);
                                         tooltipText.text = tooltipString;
                                         lastPressedButtonIndex = -1;
-                                        
                                     }
                                     DestroyMenu();
                                     instance.Draw();
@@ -2676,4 +2686,3 @@ internal class BtnCollider : MonoBehaviour
     public string relatedText;
     #endregion
 }
-#endregion

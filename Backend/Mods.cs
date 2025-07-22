@@ -31,6 +31,7 @@ using OVR;
 using POpusCodec.Enums;
 using static Photon.Voice.OpusCodec;
 using Photon.Voice.Unity;
+using System.Threading.Tasks;
 
 
 
@@ -99,7 +100,7 @@ namespace MalachiTemp.Backend
         {
             GTPlayer.Instance.transform.localScale = new Vector3(6f, 6f);
         }
-        
+
         public static void Invisableplatforms()
         {
             PlatformsThing(true, false);
@@ -130,6 +131,32 @@ namespace MalachiTemp.Backend
             // Cancel default Rigidbody motion
             GorillaLocomotion.GTPlayer.Instance.GetComponent<Rigidbody>().velocity = Vector3.zero;
         }
+        public static void bigbat()
+        {
+            GameObject.Find("Cave Bat Holdable").transform.localScale = new Vector3(6.5f, 6.5f, 6.5f);
+        }
+        public static void littlebat()
+        {
+            GameObject.Find("Cave Bat Holdable").transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
+        }
+        public static void Ficbat()
+        {
+            GameObject.Find("Cave Bat Holdable").transform.localScale = Vector3.one;
+
+        }
+        public static void bigbug()
+        {
+            GameObject.Find("Floating Bug Holdable").transform.localScale = new Vector3(6.5f, 6.5f, 6.5f);
+        }
+        public static void littlebug()
+        {
+            GameObject.Find("Floating Bug Holdable").transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
+        }
+        public static void Ficbug()
+        {
+            GameObject.Find("Floating Bug Holdable").transform.localScale = Vector3.one;
+
+        }
         public static void StumpText()
         {
             GameObject StumpObj = new GameObject("STUMPOBJ");
@@ -155,6 +182,7 @@ namespace MalachiTemp.Backend
             float moveSpeed = 5f;
             float rotateSpeed = 90f; // degrees per second
             float delta = Time.deltaTime;
+            DrawHandOrbs();
 
             // Target rig transform
             Transform rig = GorillaTagger.Instance.offlineVRRig.transform;
@@ -185,13 +213,19 @@ namespace MalachiTemp.Backend
             // === Optional: Rotate bodyCollider too to align visuals/physics ===
             GorillaTagger.Instance.bodyCollider.transform.rotation = rig.rotation;
         }
-    
+        public static void handorbs()
+        {
+            DrawHandOrbs();
+        }
+
+
+
         public static void joystickflyy()
         {
             Vector2 rightStick = ControllerInputPoller.instance.rightControllerPrimary2DAxis;
 
             Transform head = GorillaLocomotion.GTPlayer.Instance.headCollider.transform;
-            Transform body = GorillaTagger.Instance.bodyCollider.transform;
+            Transform body = GorillaTagger.Instance.headCollider.transform;
 
             // Head-forward movement (true 3D direction)
             Vector3 headForward = head.forward.normalized;
@@ -221,6 +255,85 @@ namespace MalachiTemp.Backend
                 rb.velocity = Vector3.zero;
             }
         }
+        public static void freecam()
+        {
+            GorillaTagger.Instance.offlineVRRig.enabled = false;
+            Vector2 rightStick = ControllerInputPoller.instance.rightControllerPrimary2DAxis;
+
+            Transform head = GorillaLocomotion.GTPlayer.Instance.headCollider.transform;
+            Transform body = GorillaTagger.Instance.headCollider.transform;
+
+            // Head-forward movement (true 3D direction)
+            Vector3 headForward = head.forward.normalized;
+            DrawHandOrbs();
+
+            // Body strafe (flat, no vertical)
+            Vector3 bodyRight = new Vector3(body.right.x, 0, body.right.z).normalized;
+
+            // Combine input
+            Vector3 moveDirection = headForward * rightStick.y + bodyRight * rightStick.x;
+
+            // Normalize to avoid fast diagonals
+            moveDirection = Vector3.ClampMagnitude(moveDirection, 1f);
+
+            float maxSpeed = 25f;
+            float acceleration = 6f;
+
+            Vector3 targetVelocity = moveDirection * maxSpeed;
+            flyVelocity = Vector3.Lerp(flyVelocity, targetVelocity, Time.deltaTime * acceleration);
+
+            // Move the player
+            GorillaLocomotion.GTPlayer.Instance.transform.position += flyVelocity * Time.deltaTime;
+
+            // Cancel Rigidbody movement
+            Rigidbody rb = GorillaLocomotion.GTPlayer.Instance.GetComponent<Rigidbody>();
+            if (rb != null)
+            {
+                rb.velocity = Vector3.zero;
+            }
+        }
+        public static void fixrig()
+        {
+            GorillaTagger.Instance.offlineVRRig.enabled = true;
+        }
+        public static void breaknek()
+        {
+            VRRig.LocalRig.head.trackingRotationOffset.y = 116;
+        }
+        public static void backwardshead()
+        {
+            VRRig.LocalRig.head.trackingRotationOffset.y = 200;
+        }
+        public static void fix()
+        {
+            VRRig.LocalRig.head.trackingRotationOffset.y = 0;
+        }
+
+        public static void FlingAllGuardian()
+        {
+            foreach (VRRig vrrig in GorillaParent.instance.vrrigs)
+            {
+                bool flag = ControllerInputPoller.instance.rightControllerIndexFloat > 0.4f;
+                if (flag)
+                {
+                    {
+                        GorillaTagger.Instance.offlineVRRig.enabled = false;
+                        GorillaTagger.Instance.offlineVRRig.transform.position = new UnityEngine.Vector3(0f, 9999f, 0f);
+                        GorillaTagger.Instance.myVRRig.SendRPC("GrabbedByPlayer", 0, new object[]
+                        {
+             true,
+             false,
+             false
+                        });
+                    }
+                }
+                else
+                {
+                    GorillaTagger.Instance.offlineVRRig.enabled = true;
+                }
+            }
+        }
+        
 
 
 
@@ -234,7 +347,7 @@ namespace MalachiTemp.Backend
 
 
 
-        public static void superflyyyy()
+public static void superflyyyy()
         {
             Vector3 direction = Vector3.zero;
 
@@ -245,16 +358,16 @@ namespace MalachiTemp.Backend
             }
 
             // Set target velocity
-            Vector3 targetVelocity = direction * 5000f; 
+            Vector3 targetVelocity = direction * 5000f;
 
-            
-            float accelerationRate = 14f; 
+
+            float accelerationRate = 14f;
             flyVelocity = Vector3.Lerp(flyVelocity, targetVelocity, Time.deltaTime * accelerationRate);
 
             // Apply movement
             GorillaLocomotion.GTPlayer.Instance.transform.position += flyVelocity * Time.deltaTime;
 
-            
+
             GorillaLocomotion.GTPlayer.Instance.GetComponent<Rigidbody>().velocity = Vector3.zero;
         }
         public static GameObject PlatR = null;
@@ -402,40 +515,40 @@ namespace MalachiTemp.Backend
                 if (!freezeTagManager.currentInfected.Contains(VRRig.LocalRig.Creator))
                 {
                     freezeTagManager.currentIt = VRRig.LocalRig.Creator;
-                    
+
                 }
                 else
                 {
-                    
-                if (!AmbushTagManager.currentInfected.Contains(VRRig.LocalRig.Creator))
-                {
-                    AmbushTagManager.currentIt = VRRig.LocalRig.Creator;
-                    
-                }
-                
+
+                    if (!AmbushTagManager.currentInfected.Contains(VRRig.LocalRig.Creator))
+                    {
+                        AmbushTagManager.currentIt = VRRig.LocalRig.Creator;
+
+                    }
+
                 }
             }
         }
         public static void boxesesp()
         {
-            foreach (VRRig vrrig in GorillaParent.instance.vrrigs) 
+            foreach (VRRig vrrig in GorillaParent.instance.vrrigs)
             {
-                if (vrrig != GorillaTagger.Instance.offlineVRRig) 
+                if (vrrig != GorillaTagger.Instance.offlineVRRig)
                 {
-                    
+
                     float boxWidth = 0.4f;
                     float boxHeight = 1.0f;
                     float boxDepth = 0.4f;
 
-                    
+
                     float halfWidth = boxWidth / 2f;
                     float halfHeight = boxHeight / 2f;
                     float halfDepth = boxDepth / 2f;
 
-                    
+
                     UnityEngine.Color playerColor = vrrig.playerColor;
 
-                    
+
                     Vector3[] corners = new Vector3[8];
                     corners[0] = vrrig.transform.position + new Vector3(-halfWidth, -halfHeight, -halfDepth);
                     corners[1] = vrrig.transform.position + new Vector3(halfWidth, -halfHeight, -halfDepth);
@@ -446,7 +559,7 @@ namespace MalachiTemp.Backend
                     corners[6] = vrrig.transform.position + new Vector3(halfWidth, halfHeight, halfDepth);
                     corners[7] = vrrig.transform.position + new Vector3(-halfWidth, halfHeight, halfDepth);
 
-                    
+
                     DrawLine(corners[0], corners[1], playerColor);
                     DrawLine(corners[1], corners[2], playerColor);
                     DrawLine(corners[2], corners[3], playerColor);
@@ -467,20 +580,20 @@ namespace MalachiTemp.Backend
 
         public static void BeaconEsp()
         {
-                
-            float beaconHeight = 50f; 
 
-            foreach (VRRig vrrig in GorillaParent.instance.vrrigs) 
+            float beaconHeight = 50f;
+
+            foreach (VRRig vrrig in GorillaParent.instance.vrrigs)
             {
-                if (vrrig != GorillaTagger.Instance.offlineVRRig) 
+                if (vrrig != GorillaTagger.Instance.offlineVRRig)
                 {
                     UnityEngine.Color playerColor = vrrig.playerColor;
 
-                    
-                    Vector3 beaconStart = vrrig.transform.position + new Vector3(0f, 0.5f, 0f); 
+
+                    Vector3 beaconStart = vrrig.transform.position + new Vector3(0f, 0.5f, 0f);
                     Vector3 beaconEnd = beaconStart + new Vector3(0f, beaconHeight, 0f);
 
-                    DrawLine(beaconStart, beaconEnd, playerColor, 0.05f); 
+                    DrawLine(beaconStart, beaconEnd, playerColor, 0.05f);
                 }
             }
         }
@@ -724,7 +837,7 @@ namespace MalachiTemp.Backend
             if (ControllerInputPoller.instance.rightGrab)
             {
                 GameObject.Find("Cave Bat Holdable").transform.position = GorillaTagger.Instance.leftHandTransform.position;
-           }
+            }
         }
         // Helper method to draw a line between two points
         // Added a 'thickness' parameter to allow for different line widths
@@ -981,8 +1094,8 @@ namespace MalachiTemp.Backend
             // Apply movement
             GorillaTagger.Instance.rigidbody.transform.position += currentFlySpeed * Time.deltaTime;
         }
-        
-  public static void superfly()
+
+        public static void superfly()
         {
             var player = GorillaLocomotion.GTPlayer.Instance;
             var head = player.headCollider.transform;
@@ -1179,30 +1292,30 @@ namespace MalachiTemp.Backend
         }
         public static void normalarms()
         {
-            GTPlayer.Instance.transform.localScale = new Vector3(1f, 1f ,1f);
+            GTPlayer.Instance.transform.localScale = new Vector3(1f, 1f, 1f);
         }
         public static void triggerfly()
         {
             Vector3 direction = Vector3.zero;
 
-            
+
             if (ControllerInputPoller.instance.rightControllerIndexFloat > 0.5f)
             {
-                
+
                 direction = GorillaLocomotion.GTPlayer.Instance.headCollider.transform.forward;
             }
 
-            
-            Vector3 targetVelocity = direction * 50f; 
 
-             
+            Vector3 targetVelocity = direction * 50f;
+
+
             float accelerationRate = 5f; // Adjust for responsiveness
             flyVelocity = Vector3.Lerp(flyVelocity, targetVelocity, Time.deltaTime * accelerationRate);
 
-            
+
             GorillaLocomotion.GTPlayer.Instance.transform.position += flyVelocity * Time.deltaTime;
 
-            
+
             GorillaLocomotion.GTPlayer.Instance.GetComponent<Rigidbody>().velocity = Vector3.zero;
         }
 
@@ -1227,7 +1340,7 @@ namespace MalachiTemp.Backend
         }
         public static void seccounddisconnect()
         {
-            if (ControllerInputPoller.instance.rightControllerSecondaryButton) 
+            if (ControllerInputPoller.instance.rightControllerSecondaryButton)
             {
                 PhotonNetwork.Disconnect();
             }
@@ -1244,7 +1357,7 @@ namespace MalachiTemp.Backend
                 GorillaTagger.Instance.offlineVRRig.enabled = !ghostMonke;
                 if (ghostMonke)
                 {
-                    DrawHandOrbs();                 
+                    DrawHandOrbs();
                 }
                 if (WristMenu.ybuttonDown && !lastHit)
                 {
@@ -1741,7 +1854,7 @@ namespace MalachiTemp.Backend
                 }
             }
         }
-#endregion
+        #endregion
         #region GetButton
         public static ButtonInfo GetButton(string name)
         {
